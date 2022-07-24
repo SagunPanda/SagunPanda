@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sagun Panda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://images6.fanpop.com/image/photos/38800000/Shizuku-studio-ghibli-38808828-500-269.gif">
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/zFYlcnyDzhkAAAAd/student-studying.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagunpanda&label=Profile%20views&color=0e75b6&style=flat" alt="sagunpanda" /> </p>
 
 <p align="left"> <a href="https://twitter.com/panda_sagun" target="blank"><img src="https://img.shields.io/twitter/follow/panda_sagun?logo=twitter&style=for-the-badge" alt="panda_sagun" /></a> </p>
+
+-🔭 I’m currently working on  my problem solving skills
 
 - 🌱 I’m currently learning **React js, Flutter**
 
