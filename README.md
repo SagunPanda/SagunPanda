@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **sagunpanda9439@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FuX6mlYZqZUGsrL095AEFy0WkHjYJscz/view?usp=sharing](https://drive.google.com/file/d/1FuX6mlYZqZUGsrL095AEFy0WkHjYJscz/view?usp=sharing)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1qE-bMN69p4J_wEBr4Gjn4OAjqNVr9WtU/view?usp=share_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
