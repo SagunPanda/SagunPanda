@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on  my problem solving skills
 
-- 🌱 I’m currently learning **React js, Node js**
+- 🌱 I’m currently learning **React js, **
 
 - 💬 Ask me about **html,css,javascript**
 
 - 📫 How to reach me **sagunpanda9439@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1qE-bMN69p4J_wEBr4Gjn4OAjqNVr9WtU/view?usp=share_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1pij5nkqibUmxlzL9MCUUPRZmzHUGZ0dx/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
