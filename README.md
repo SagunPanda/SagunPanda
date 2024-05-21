@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sagun Panda</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47bdt00l56lka2g6m6vi6hjt6vypqtiuhob7i4qs55&rid=giphy.gif&ct=g">
 
 
-- 🔭 I’m currently working on  my problem solving skills
+- 🔭 I’m currently working on self growth
 
-- 🌱 I’m currently learning **React js, **
+- 🌱 I’m currently learning **Data Analytics **
 
-- 💬 Ask me about **html,css,javascript**
+- 💬 Ask me about **software development**
 
 - 📫 How to reach me **sagunpanda9439@gmail.com**
 
